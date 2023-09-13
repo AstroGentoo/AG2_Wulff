@@ -11,7 +11,7 @@
 % normal unit vectors on the surface free energy. The inner envelope formed
 % by these planes corresponds to the equilibrium crystal shape.
 
-% Adated from:
+% Adapted from:
 % Wang, L., Shirodkar, S.N., Zhang, Z. et al.
 % Defining shapes of two-dimensional crystals with undefinable edge energies
 % Nat Comput Sci 2, 729–735 (2022)
